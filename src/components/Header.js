@@ -8,7 +8,7 @@ function Header() {
         <div className="container" style={{marginTop:"50px"}} >
         <div className="row">
         <div className="col">
-            <h1 className='font-weight-bold'>V_SERVE_U</h1>
+            <h1 className='font-weight-bold fs-2'>My Home Services</h1>
         </div>
         <div className="col-6">
 
